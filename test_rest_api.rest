@@ -1,0 +1,13 @@
+GET http://localhost:8080/incomes
+
+###
+GET https://jsonplaceholder.typicode.com/posts/1
+
+###
+POST https://jsonplaceholder.typicode.com/posts
+Content-Type: application/json
+
+{
+    "title" : "post1",
+    "body" : "body of post 1"
+}
