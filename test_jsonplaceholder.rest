@@ -1,0 +1,14 @@
+GET https://jsonplaceholder.typicode.com/todos/1
+
+###
+GET https://jsonplaceholder.typicode.com/todos
+
+
+###
+POST https://jsonplaceholder.typicode.com/todos
+Content-Type: application/json
+
+{
+    "title" : "drink coffee",
+    "completed" : false
+}
