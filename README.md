@@ -1,1 +1,1 @@
-# vscode-reatapi-plugin
+# vscode-restapi-plugin
